@@ -1,0 +1,12 @@
+﻿  cv_Sift.c
+c:\users\zeroroamn.000\documents\visual studio 2015\projects\cv_sift\cv_sift\cv_sift.c(18): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+c:\users\zeroroamn.000\documents\visual studio 2015\projects\cv_sift\cv_sift\cv_sift.c(19): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+c:\users\zeroroamn.000\documents\visual studio 2015\projects\cv_sift\cv_sift\cv_sift.c(47): warning C4244: “初始化”: 从“double”转换到“long”，可能丢失数据
+c:\users\zeroroamn.000\documents\visual studio 2015\projects\cv_sift\cv_sift\cv_sift.c(302): warning C4013: “SIFT”未定义；假设外部返回 int
+c:\users\zeroroamn.000\documents\visual studio 2015\projects\cv_sift\cv_sift\cv_sift.c(305): warning C4013: “match”未定义；假设外部返回 int
+c:\users\zeroroamn.000\documents\visual studio 2015\projects\cv_sift\cv_sift\cv_sift.c(302): warning C4047: “初始化”:“int **”与“int”的间接级别不同
+c:\users\zeroroamn.000\documents\visual studio 2015\projects\cv_sift\cv_sift\cv_sift.c(303): warning C4047: “初始化”:“int **”与“int”的间接级别不同
+  cv_Sift.vcxproj -> C:\Users\zeroRoamn.000\Documents\Visual Studio 2015\Projects\cv_Sift\Debug\cv_Sift.exe
+  cv_Sift.vcxproj -> C:\Users\zeroRoamn.000\Documents\Visual Studio 2015\Projects\cv_Sift\Debug\cv_Sift.pdb (Full PDB)
